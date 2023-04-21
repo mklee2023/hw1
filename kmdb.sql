@@ -118,7 +118,7 @@ CREATE TABLE movies (
     year_released INTEGER,
     rating_mdaa TEXT,
     studio_id INTEGER
-);
+); 
 
 CREATE TABLE studios (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
